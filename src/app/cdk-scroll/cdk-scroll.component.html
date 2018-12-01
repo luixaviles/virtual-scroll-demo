@@ -1,0 +1,6 @@
+<cdk-virtual-scroll-viewport
+  itemSize="50" style="height: 600px; width: 300px; border: 1px solid blue">
+  <div *cdkVirtualFor="let item of list" style="height: 50px">
+    {{item}}
+  </div>
+</cdk-virtual-scroll-viewport>
