@@ -1,0 +1,8 @@
+{
+  "html": {
+      "snippets": {
+          "cdk-vs": "<cdk-virtual-scroll-viewport itemSize=${1}></cdk-virtual-scroll-viewport>",
+          "cdk-for": "cdkVirtualFor=${1}"
+      }
+  }
+}
